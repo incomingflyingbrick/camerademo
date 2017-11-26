@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/yazhoujiang/.android/build-cache/6276227b8c5197c7d1ebca35df45340ce0226ec3/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/yazhoujiang/.android/build-cache/6276227b8c5197c7d1ebca35df45340ce0226ec3/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/yazhoujiang/.android/build-cache/c7b98afbf8baab22afa83ab6045c92895b745326/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/yazhoujiang/.android/build-cache/6276227b8c5197c7d1ebca35df45340ce0226ec3/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

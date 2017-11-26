@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4aacea40a679492cf4fefd00d0bc90230e45cab6">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b241907207599106e24e2be5a8acfa11fa590a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.android/build-cache/9d1c6c719d7ca883b75956d0d22a08177747cf25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c35412c0b7efc8f63eba8035837b7a00654d4bff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.android/build-cache/e6653841b0f689e6d9fa5ca6afc376264d484aad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8ff51dee19d60e934c1b4c5f48eafc154a81f3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.android/build-cache/c92506d5e45344c6833b701a4fbe53447c849d5a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="80d9ff49e99ff481062ea190b43e8d6bdffd4ddc">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_070e8f222be0b786c115e8394079c90e1a50ee94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.android/build-cache/6276227b8c5197c7d1ebca35df45340ce0226ec3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d353d9ae70c9d772e5aa0689bb641277b6b5c2b4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.android/build-cache/b2acb8a1378ca49ed6079ca23d1d4aecd6d11e16/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_205bb8c81378d173411d0bf0463e1103acb613ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_83453057e3cbc8ead48726ef61e4dc34e75b62f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.1/84b4b7d1c4a238e7899972b7446c250691e65f1f/okhttp-3.9.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="84b4b7d1c4a238e7899972b7446c250691e65f1f">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.9.1_72cafb47966a904e753c95593c27e870be19b287/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.1.0_af998bf50722bc462840b09bdf7a87ebaa194fc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.android/build-cache/c7b98afbf8baab22afa83ab6045c92895b745326/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ac369744ab3c05c0793fe6c80f28a6b4bb0dfd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_b8d3aa7406fe9c07fb76be297d8b737a7f425d47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_15d112e29ed03f1fd1966e7ad163d09f9c60ae1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.android/build-cache/31226fabd61e196059afca9f29db005dea639140/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_35f2ce3d1c8d7406784a15347047a71eb12fd048/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.android/build-cache/d0448aba70013dd8c9d13a677eacf1c4a76ea33c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26b74dc00dd12a7e5bcdfa26b0666888e3f4fa01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_b48368f6935cb49dd3f446fba6883cf6f409b49b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.android/build-cache/a61d5ce7b7b3184cab347a96227aa904507526f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14175a03f492b3a1d931bce3944a846663029f3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.android/build-cache/f717b3ff775ca85bdcb078ba9257761eae03dd56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_789a154464429dffb88669417d132893a489e04d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.android/build-cache/4c4f3353b3e0725a6fd00c5a8acfdacc3c8b6d49/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_658e07d3db568ef5663cd30ddb10a5a584017d67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yazhoujiang/.android/build-cache/ce4a73c7a98163856f47eb60bafcfa82ea63c9d2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/yazhoujiang/Downloads/android-Camera2Basic-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bcf2c85412a8c992507941927c696b2cd31d0914/classes.dex" />
+    </item>
+
+</items>

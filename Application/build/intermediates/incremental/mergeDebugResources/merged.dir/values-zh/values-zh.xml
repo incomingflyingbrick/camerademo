@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera_error">手机系统版本过低请使用API23版本及以上的手机</string>
+    <string name="description_info">信息</string>
+    <string name="picture">照相</string>
+    <string name="request_permission">这个软件需要相机权限，请打开相机权限</string>
+</resources>
